@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 Hi! I’m passionate about transforming data into meaningful insights and building intelligent systems. I’m currently working on improving my skills in machine learning, deep learning, and data pipelines.  
-Let’s connect on [LinkedIn](https://linkedin.com/in/tu-usuario) 🌐
+Let’s connect on [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/david-aabril/)) 🌐
 
 
 ---
