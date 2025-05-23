@@ -15,7 +15,8 @@
 
 ### 📂 Project Categories
 
-- 🧠 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Classification</a>
+- 🧠 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Redes Neuronales</a>
+- 👾 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Classification</a>
 - 📈 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/regresion">Regression</a>
 - 📊 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/analisis-exploratorio">Exploratory Data Analysis</a>
 - ⏱ <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/series-de-tiempo">Time Series</a>
