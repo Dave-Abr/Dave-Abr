@@ -27,6 +27,17 @@
 Hi! I’m passionate about transforming data into meaningful insights and building intelligent systems. I’m currently working on improving my skills in machine learning, deep learning, and data pipelines.  
 Let’s connect on [LinkedIn](https://linkedin.com/in/tu-usuario) 🌐
 
+
+---
+
+
+
+<!--
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -34,15 +45,4 @@ Let’s connect on [LinkedIn](https://linkedin.com/in/tu-usuario) 🌐
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
-</p>
-
-
-
-<!--
-
 -->
