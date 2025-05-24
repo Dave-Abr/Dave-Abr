@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My Portfolio</h1>
 
 <p align="center">
-  🚀 Data Science | 📊 Analytics | 🤖 Machine Learning | ⚙️ Automation | ⚙️ SQL
+  🚀 Data Science | 📊 Analytics | 🤖 Machine Learning | ⚙️ Automation | 🗄️ SQL
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ### 📂 Data Science Project
 
+- 📈 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/regresion">Regression</a>
+- 👾 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Classification</a>
 - 🧠 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Neural Networks</a>
 
 
 ### 📂 Analytics Project
 
-- 👾 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Classification</a>
-- 📈 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/regresion">Regression</a>
 - 📊 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/analisis-exploratorio">Exploratory Data Analysis</a>
 - ⏱ <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/series-de-tiempo">Time Series</a>
 
 ### 📂 SQL Project
 
-- 👾 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Financial</a>
+- 🏦 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Financial</a>
 
 ---
 
