@@ -19,23 +19,27 @@
 
 ---
 
-### 📂 Data Science Project
+### 📂 Data Science Projects
 
 - 📈 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Regression</a>
 - 👾 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Classification</a>
 - 🧠 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Neural Networks</a>
 
 
-### 📂 Analytics Project
+### 📂 Analytics Projects
 
 - ☁️ <a href="https://github.com/Dave-Abr/Analytics-Project">Salesforce Reports & Dasboards</a>
 - 📊 <a href="https://github.com/Dave-Abr/Analytics-Project">Exploratory Data Analysis</a>
 - ⏱ <a href="https://github.com/Dave-Abr/Analytics-Project">Time Series</a>
 
-### 📂 SQL Project
+### 📂 SQL Projects
 
 - 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Financial</a>
 - 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Postgres</a>
+
+### 📂 Automation Projects
+
+- 📄 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Form to PDF</a>
 
 ---
 
