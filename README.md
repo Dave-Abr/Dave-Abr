@@ -15,16 +15,16 @@
 
 ### 📂 Data Science Project
 
-- 📈 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/regresion">Regression</a>
-- 👾 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Classification</a>
+- 📈 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Regression</a>
+- 👾 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Classification</a>
 - 🧠 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Neural Networks</a>
 
 
 ### 📂 Analytics Project
 
-- ☁️ <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/series-de-tiempo">Salesforce Reports & Dasboards</a>
-- 📊 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/analisis-exploratorio">Exploratory Data Analysis</a>
-- ⏱ <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/series-de-tiempo">Time Series</a>
+- ☁️ <a href="https://github.com/Dave-Abr/Analytics-Project">Salesforce Reports & Dasboards</a>
+- 📊 <a href="https://github.com/Dave-Abr/Analytics-Project">Exploratory Data Analysis</a>
+- ⏱ <a href="https://github.com/Dave-Abr/Analytics-Project">Time Series</a>
 
 ### 📂 SQL Project
 
