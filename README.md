@@ -28,7 +28,8 @@
 
 ### 📂 SQL Project
 
-- 🏦 <a href="https://github.com/tu-usuario/portafolio-data-science/tree/main/clasificacion">Financial</a>
+- 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Financial</a>
+- 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Postgres</a>
 
 ---
 
