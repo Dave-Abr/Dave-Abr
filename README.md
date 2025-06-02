@@ -50,6 +50,7 @@ Hi! I’m passionate about transforming data into meaningful insights and buildi
 Let’s connect on: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aabril/)
+[![Salesforce | Trailhead](https://img.shields.io/badge/Salesforce-%230077B5.svg?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/dabrilr)
 
 
 ---
