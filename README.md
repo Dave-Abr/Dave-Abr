@@ -25,8 +25,7 @@ Hi! I’m passionate about transforming data into meaningful insights and buildi
 
 ### 📂 SQL Projects
 
-- 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Financial</a>
-- 🏦 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Postgres</a>
+- 🐘 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">PostgresSQL</a>
 
 ### 📂 Automation Projects
 
