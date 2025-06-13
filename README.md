@@ -29,7 +29,7 @@ Hi! I’m passionate about transforming data into meaningful insights and buildi
 
 ### 📂 Automation Projects
 
-- 📄 <a href="https://github.com/Dave-Abr/SQL-Project/tree/main">Form to PDF</a>
+- 📄 <a href="https://github.com/Dave-Abr/automation-projects">Form to PDF</a>
 
 
 ---
