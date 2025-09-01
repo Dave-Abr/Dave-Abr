@@ -21,7 +21,7 @@ Hi! I’m passionate about transforming data into meaningful insights and buildi
 - 📈 <a href="https://github.com/Dave-Abr/Analytics-Project">Exploratory Data Analysis</a>
 - ⏱ <a href="https://github.com/Dave-Abr/Analytics-Project">Time Series</a>
 - ☁️ <a href="https://github.com/Dave-Abr/salesforce/tree/main">Salesforce</a>
-- 📊<a href="https://public.tableau.com/app/profile/david.aabril/vizzes">Tableau</a> | 📊<a href="">Power BI</a>
+- 📊<a href="https://public.tableau.com/app/profile/david.aabril/vizzes">Tableau</a> | 📊<a href="https://github.com/Dave-Abr/power-bi/tree/main">Power BI</a>
 
 ### 📂 SQL Projects
 
