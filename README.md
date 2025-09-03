@@ -14,6 +14,7 @@ Hi! I’m passionate about transforming data into meaningful insights and buildi
 - 📈 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Regression</a>
 - 👾 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Classification</a>
 - 🧠 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Neural Networks</a>
+- 🫂 <a href="https://github.com/Dave-Abr/Neural-Networks-Projects/tree/main">Agents</a>
 
 
 ### 📂 Analytics Projects
